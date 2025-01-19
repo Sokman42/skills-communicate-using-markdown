@@ -17,3 +17,10 @@ def abiCalc(abi, abiStats):
 ![Image of Kanto Slowpoke from Bulbapedia](https://archives.bulbagarden.net/media/upload/1/19/0079Slowpoke.png)
 
 Slowpoke the bold, Slowpoke the determined...
+
+#### Header for checklist
+- [x] Intro to Github
+- [ ] Read ProGit
+- [ ] Update Project Repos
+- [ ] Continue Learning
+- [x] Appreciate the Slowpoke
